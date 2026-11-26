@@ -24,7 +24,9 @@ status: active
 $$\text{Output} = \text{LN}(x + \text{SubLayer}(x))$$
 
 Q：当前要找什么？
+
 K：每个位置拿什么和查询做匹配？
+
 V：从每个位置能读到什么？
 
 ---
